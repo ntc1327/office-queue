@@ -1,0 +1,107 @@
+The Secretary Simulator
+
+Client 1 has called.
+The time is 0.788766 seconds.
+The line length is now 1.
+
+Client 1 had their question answered.
+The time is 1.57187 seconds.
+The line length is now 0.
+
+Client 2 has walked in.
+The time is 1.96697 seconds.
+The line length is now 1.
+
+Client 3 has walked in.
+The time is 2.52252 seconds.
+The line length is now 2.
+
+Client 2 had their question answered.
+The time is 2.7352 seconds.
+The line length is now 1.
+
+Client 3 had their question answered.
+The time is 3.21259 seconds.
+The line length is now 0.
+
+Client 4 has called.
+The time is 4.48402 seconds.
+The line length is now 1.
+
+Client 5 has walked in.
+The time is 4.76722 seconds.
+The line length is now 2.
+
+Client 6 has called.
+The time is 5.04169 seconds.
+The line length is now 3.
+
+Client 7 has walked in.
+The time is 5.35504 seconds.
+The line length is now 4.
+
+Client 8 has walked in.
+The time is 5.57266 seconds.
+The line length is now 5.
+
+Client 6 had their question answered.
+The time is 5.84586 seconds.
+The line length is now 4.
+
+Client 4 had their question answered.
+The time is 6.00549 seconds.
+The line length is now 3.
+
+Client 5 had their question answered.
+The time is 6.02179 seconds.
+The line length is now 2.
+
+Client 7 had their question answered.
+The time is 6.15158 seconds.
+The line length is now 1.
+
+Client 8 had their question answered.
+The time is 6.36984 seconds.
+The line length is now 0.
+
+Client 9 has walked in.
+The time is 7.42333 seconds.
+The line length is now 1.
+
+Client 9 had their question answered.
+The time is 7.82356 seconds.
+The line length is now 0.
+
+Client 10 has walked in.
+The time is 8.52847 seconds.
+The line length is now 1.
+
+Client 11 has walked in.
+The time is 8.66798 seconds.
+The line length is now 2.
+
+Client 12 has walked in.
+The time is 8.8401 seconds.
+The line length is now 3.
+
+Client 10 had their question answered.
+The time is 9.4475 seconds.
+The line length is now 2.
+
+Client 13 has called.
+The time is 9.48755 seconds.
+The line length is now 3.
+
+Client 14 has walked in.
+The time is 9.61374 seconds.
+The line length is now 4.
+
+Client 13 had their question answered.
+The time is 9.94525 seconds.
+The line length is now 3.
+
+Client 11 had their question answered.
+The time is 10.4312 seconds.
+The line length is now 2.
+
+End of simulation.
